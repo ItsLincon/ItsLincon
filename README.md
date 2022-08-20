@@ -31,3 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
+</div>
+
+### :fire: Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsLincon&theme=react&hide_border=true&locale=en&fire=D52FDD&ring=907ADD&sideNums=C585DD)](https://git.io/streak-stats)
