@@ -13,12 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center">
+<h3 align="center">
   I am an open source programmer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
   from Spain
   <img src="https://images.emojiterra.com/twitter/512px/1f1ea-1f1f8.png" width="20"/>
-</h1>
+</h3>
 
 <h1 align="center">
   Programming languages that I usually use in my projects
