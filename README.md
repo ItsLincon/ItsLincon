@@ -20,8 +20,6 @@
   <img src="https://images.emojiterra.com/twitter/512px/1f1ea-1f1f8.png" width="20"/>
 </h1>
 
-I am an open source programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain <img src="https://images.emojiterra.com/twitter/512px/1f1ea-1f1f8.png" width="20">.
-
 <h1 align="center">
   Programming languages that I usually use in my projects
   <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="30px"/>
