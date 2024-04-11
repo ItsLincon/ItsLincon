@@ -21,16 +21,15 @@
 </h3>
 
 <h1 align="center">
-  Programming languages that I usually use in my projects
+  Languages ​​used in my repositories.
   <img src="https://i.pinimg.com/originals/49/63/55/49635571e277679dbba17f67dee7da98.gif" width="30px"/>
 </h1>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: Stats :
