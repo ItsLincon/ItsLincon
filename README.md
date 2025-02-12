@@ -14,7 +14,7 @@
   </a>
 </div>
 <h3 align="center">
-  I am an open source programmer
+  I am an open source developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
   from Spain
   <img src="https://images.emojiterra.com/twitter/512px/1f1ea-1f1f8.png" width="20"/>
