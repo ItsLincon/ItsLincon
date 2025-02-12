@@ -20,6 +20,4 @@
   <img src="https://images.emojiterra.com/twitter/512px/1f1ea-1f1f8.png" width="20"/>
 </h3>
 
-### :fire: Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsLincon&theme=react&hide_border=true&locale=en&fire=D52FDD&ring=907ADD&sideNums=C585DD)](https://git.io/streak-stats)
+<a style="text-align=center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsLincon&theme=react&hide_border=true&locale=en&fire=D52FDD&ring=907ADD&sideNums=C585DD)](https://git.io/streak-stats)</a>
